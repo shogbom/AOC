@@ -18,4 +18,4 @@ with open("list", "r") as f:
         curr = curr % 100
         if curr == 0:
             count += 1
-    print(counta)
+    print(counta):
